@@ -5,7 +5,7 @@
 ![PyPI](https://img.shields.io/pypi/v/TGSessionsConverter)
 ![PyPI - License](https://img.shields.io/pypi/l/TGSessionsConverter)
 
-This module is small util for easy converting Telegram sessions to various formats (Telethon, Pyrogram, Tdata)
+This module is a small utility module for simple Telegram session conversion to various formats  (Telethon, Pyrogram, Tdata)
 <hr/>
 
 ## Installation
